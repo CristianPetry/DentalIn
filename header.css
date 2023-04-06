@@ -1,0 +1,27 @@
+.header{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.header__logo{
+    width: 116px;
+
+}
+
+
+.header__cta{
+    text-decoration: none;
+    border: 2px solid var(--primary-color);
+    width: 130px;
+    height: 32px;
+    font-size: 10px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+
+}

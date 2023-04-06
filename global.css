@@ -15,3 +15,32 @@
 body{
     font-family: "Poppins",sans-serif;
 }
+
+
+.header,
+.presentation,
+.about-us,
+.services,
+.bottom-slogan,
+.footer {
+
+    max-width: 1200px;
+    margin:0 auto;
+    padding: 0 30px;
+
+}
+.bottom-slogan-container{
+  background-color: #c4c4c40f;
+}
+
+
+.about-us,
+.services,
+.bottom-slogan-container,
+.footer{
+    margin-top: 80px;
+}
+
+
+
+
