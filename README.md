@@ -1,5 +1,5 @@
 # DentalIn
-## Sobre o projeto
+## Projeto
 https://cristianpetry.github.io/DentalIn/
 
 ## Tecnologias utilizadas
